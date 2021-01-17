@@ -1,0 +1,2 @@
+# softwareEng3Project
+This is the project for zoo web application which is designed with php language (core). In this application there are total of 4 users where admin controls all the tasks and given priveleged to other employees like manager, zookeeper, sponsor and user on the basis of the position. Here, the manager can use CRUD method in of all the activities of the zoo except adding user accounts where the zoo keeper keeps track of animals record. The animals are sponsored by respective sponsors and the users can visit the zoo or book a ticket using web app.
